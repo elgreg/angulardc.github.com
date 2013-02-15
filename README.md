@@ -1,2 +1,2 @@
-angulardc.github.com
+angulardcOnGithub
 ====================
